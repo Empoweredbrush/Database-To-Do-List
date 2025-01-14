@@ -1,10 +1,10 @@
 ## Overview
 
-**Project Title**:
+**Project Title**: To Do list tracker
 
-**Project Description**:
+**Project Description**: This project utilizes a cloud database to keep track of to-do tasks a user enters into the database. The user can then either change the task as they wish or delete tasks if needed.
 
-**Project Goals**:
+**Project Goals**: The project should allow a user to add tasks to a cloud database table, along with the user being able to change task within that table or delete them. The project should also give notifications when a task has successfully been added, changed, or deleted.
 
 ## Instructions for Build and Use
 
