@@ -15,7 +15,7 @@ def Start():
     print("Welcome to the To-Do list tracker to get started:")
     name = input("What is your name? ")
 
-    print("Welcome " + name + " to begin do you wish to A) add items to your To-Do list, B) Alter an item, or C) delete or complete an item?")
+    print("Welcome " + name + ", to begin do you wish to A) add items to your To-Do list, B) Alter an item, or C) delete or complete an item?")
     answer = input("(Please type A, B, or C) ")
 
     if answer.lower() == "a":
