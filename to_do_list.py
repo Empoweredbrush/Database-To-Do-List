@@ -10,7 +10,7 @@ app = firebase_admin.initialize_app(cred)
 db = firestore.client()
 doc_ref = db.collection("To-do List")
 
-
+#Starts up the program, asking the user for their name to be a bit more personalized, and allows the user to choose what they wish to do with their to-do list
 def Start():
     print("Welcome to the To-Do list tracker to get started:")
     name = input("What is your name? ")
@@ -38,7 +38,7 @@ def Add():
     task = input("What task do you wish to add? (Please give a description not just a name) ")
     doc_ref.set({"Task" : task})
 
-#overwrites selected document task in database and changes it to given input
+#overwrites selected document task in database and changes it to given input by the user
 def overwrite():
     user = input("What is the task name you are overwriting today? ")
     doc_ref = db.collection("To-do List").document(user)
