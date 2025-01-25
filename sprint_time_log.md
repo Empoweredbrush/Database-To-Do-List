@@ -28,11 +28,11 @@ The expected minimum amount of time each Sprint for each category is as follows:
 |----------|----------|:------:|--------------------------------------------|:-----------:|
 | 1/20/25  |   5:30   |   IM   | Worked on connecting to my cloud           |    180      |
                                 database and established the code                        
-| 1/16/25  |  12:45   |   TP   |                                            |    60       |
-| 1/24/25  |   5:15   |   IM   |                                            |    180      |
-| 1/14/25  |   12:45  |   MTG  |                                            |    60       |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
+| 1/16/25  |  12:45   |   TP   | Set up unity on my system                  |    60       |
+| 1/24/25  |   4:00   |   IM   | fleshed out code and did final touches     |    180      |
+| 1/14/25  |   12:45  |   MTG  |  Got assignments and brainstormed ideas    |    60       |
+| 1/14/25  |   5:15   |   IM   | created the credentions for database       |    180      |
+| 1/15/25  |   5:15   |   TP   | Researched how to do collision in unity using script|    120      |
 
 _Note: Add more rows as needed._
 
@@ -40,7 +40,7 @@ _Note: Add more rows as needed._
 
 |Categroy                       |Total Time (Hours:Minutes)|
 |-------------------------------|:------------------------:|
-|IM - Individual Module         |          6:00            |
-|TP - Team Project              |          1:00            |
+|IM - Individual Module         |          8:00            |
+|TP - Team Project              |          3:00            |
 |MTG - Class Meetings           |          1:00            |
-|**TOTAL**                      |          8:00            |
+|**TOTAL**                      |          13:00           |
